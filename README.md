@@ -35,8 +35,15 @@ Your task in this exercise was to create a report showing KPIs that provided the
 
 ![image_alt](https://github.com/DSgenes/Indicating-Business-Performance/blob/c78afbcb56f978c1933757e0e12e92edf31ee5d8/Screenshot%202.png)
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+# 2. Total Sales Per Month
 
+• Select the Multi-row Card visualization from the Visualizations pane.
+• Drag and drop the Sales Amount field into the Fields well.
+• Expand the Order Date field and drag and drop the Month field into the Fields well.
+• This will display Total Sales per Month.
 
+![image_alt](https://github.com/DSgenes/Indicating-Business-Performance/blob/e6bdaa3719c7cc4a2afa91a131e22547eee87842/Screenshot%203.png)
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 
