@@ -91,10 +91,21 @@ Your task in this exercise was to create a report showing KPIs that provided the
 
 • This will display Monthly Marketing Spend.
 
-![image_alt]()
+![image_alt](https://github.com/DSgenes/Indicating-Business-Performance/blob/4c9cb79e1e869fb0f84432581a25ebd27070c333/Screenshot%208.png)
 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+# 5. The change in sales over time for the sales teams, and how does this correlate with marketing spending
 
+• Select the Waterfall chart from the Visualizations pane.
+
+• Drag and drop the Sales Amount into the Y-axis field.
+
+• Drag and drop the Month field from Order Date into the Category field. This will display sales changes over the months.
+
+• Drag and drop the Sales Team field into the Breakdown field.
+
+• Drag and drop the Marketing Spend into the Tooltips field to see its correlation with sales changes.
 
 
 
