@@ -78,7 +78,8 @@ Your task in this exercise was to create a report showing KPIs that provided the
 
 • This will show the Total Marketing Spend (sum of Marketing Spend during this time).
 
-![image_alt]()
+![image_alt](https://github.com/DSgenes/Indicating-Business-Performance/blob/e1b58e5c0b642f3c761c9e228d6cddd1bcf14936/Screenshot%205.png)
+
 
 # Monthly Marketing Spend
 
