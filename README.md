@@ -33,6 +33,7 @@ Your task in this exercise was to create a report showing KPIs that provided the
 • Drag and drop Sales Amount into the Values field.
 • Change the aggregation from Sum to Average to calculate Average Sales.
 
+![image_alt](https://github.com/DSgenes/Indicating-Business-Performance/blob/c78afbcb56f978c1933757e0e12e92edf31ee5d8/Screenshot%202.png)
 
 
 
