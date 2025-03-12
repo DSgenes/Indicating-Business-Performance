@@ -64,11 +64,33 @@ Your task in this exercise was to create a report showing KPIs that provided the
 
 • This will display the Total Orders (count of Sales IDs).
 
+![image_alt](https://github.com/DSgenes/Indicating-Business-Performance/blob/bed1f9d91b8c7b2541b827dfc731da31e908b824/Screenshot%204.png)
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+# 4. Total Marketing Spend and Monthly Marketing Spend
+
+# Total Marketing Spend
+
+• Select the Card visualization from the Visualizations pane.
+
+• Drag and drop the Marketing Spend field into the Fields well.
+
+• This will show the Total Marketing Spend (sum of Marketing Spend during this time).
+
 ![image_alt]()
 
+# Monthly Marketing Spend
 
+• Select the Multi-row Card visualization from the Visualizations pane.
 
+• Drag and drop the Marketing Spend field into the Fields well.
 
+• Expand the Order Date field and drag and drop the Month field into the Fields well.
+
+• This will display Monthly Marketing Spend.
+
+![image_alt]()
 
 
 
