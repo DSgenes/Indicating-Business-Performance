@@ -18,7 +18,7 @@ Your task in this exercise was to create a report showing KPIs that provided the
 
 • What is the performance of different sales regions with their advertising campaigns?
 
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 # 1. Total Sales and Average Sales
 
 # Total Sales:
@@ -34,6 +34,7 @@ Your task in this exercise was to create a report showing KPIs that provided the
 • Change the aggregation from Sum to Average to calculate Average Sales.
 
 ![image_alt](https://github.com/DSgenes/Indicating-Business-Performance/blob/c78afbcb56f978c1933757e0e12e92edf31ee5d8/Screenshot%202.png)
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 
