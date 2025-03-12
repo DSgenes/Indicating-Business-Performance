@@ -107,6 +107,15 @@ Your task in this exercise was to create a report showing KPIs that provided the
 
 • Drag and drop the Marketing Spend into the Tooltips field to see its correlation with sales changes.
 
+![image_alt](https://github.com/DSgenes/Indicating-Business-Performance/blob/90d3cdc11479540b53f20043db54b8e35a5806ac/Screenshot%206.png)
+
+• Hover over each item to examine how the team performed with their advertising budget compared to the previous month.
+
+![image_alt]()
+
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 
 
 ![image_alt](https://github.com/DSgenes/Indicating-Business-Performance/blob/763ce71c97be0f182d85a0f1395eb16818fb3973/Screenshot%201.png)
