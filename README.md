@@ -19,6 +19,39 @@ Your task in this exercise was to create a report showing KPIs that provided the
 • What is the performance of different sales regions with their advertising campaigns?
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+# Step 1 : Download the provided dataset to your computer.
+
+• Create a new Power BI project.
+
+• Import the dataset (Excel file) into your Power BI project.
+
+• In the preview window, verify that the data appears correct.
+
+• Select Load to import the data .
+
+• Ensure the data types for your columns in Power Query Editor are:
+
+         • SalesID: Whole Number
+
+         • SalesOrderNumber: Text
+
+         • OrderDate: Date
+
+         • DueDate: Date
+
+         • SalesAmount: Decimal Number
+
+         • Region: Text
+
+         • MarketingSpend: Decimal Number
+
+         • SalesTeam: Text
+
+• Close and Apply any transformations in Power Query Editor to save the changes to your dataset.
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+# Step 2: Compute the KPI Metrics and Create Visualizations
 
 # 1. Total Sales and Average Sales
 
@@ -115,7 +148,7 @@ Your task in this exercise was to create a report showing KPIs that provided the
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-# Region Performance and Ranking
+# 6. Region Performance and Ranking
 
 • Select the Ribbon chart from the Visualizations pane.
 
@@ -133,6 +166,40 @@ Your task in this exercise was to create a report showing KPIs that provided the
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+# Step 3: Communicate Results
 
+# Total and Average Sales: 
 
+              Total sales from January to March: $1.04 million.
+              
+              Average monthly sales per order: $64.75K.
+
+# Sales Across Regions:
+
+              East and South regions (Team B) outperform the North and West regions (Team A), indicating better sales performance.
+              
+# Number of Orders:
+
+              A total of 16 distinct orders were placed, providing insight into transaction volume.
+
+# Marketing Expenditure:
+
+             Total marketing spend: $126K.
+              
+             Marketing expenditure increased each month, aligning with the goal of boosting sales.
+
+# Sales and Marketing Expenditure Relationship:
+
+             Waterfall chart shows a positive correlation between sales and marketing spend.
+
+             Team B saw a higher return on marketing spend. An additional $17K in marketing led to $223K in sales for July.
+
+             Team A saw a lower return: An additional $20K in marketing brought $65K in sales for July.
+
+# Region Performance and Ranking:
+
+             East region performed best in sales.
+            
+             Despite significant marketing expenditure, the West region underperformed, suggesting potential issues with the advertising campaigns.
+             
 ![image_alt](https://github.com/DSgenes/Indicating-Business-Performance/blob/763ce71c97be0f182d85a0f1395eb16818fb3973/Screenshot%201.png)
