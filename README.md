@@ -19,33 +19,52 @@ Your task in this exercise was to create a report showing KPIs that provided the
 • What is the performance of different sales regions with their advertising campaigns?
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 # 1. Total Sales and Average Sales
 
 # Total Sales:
 
 • Select Card visualization from the Visualizations pane.
+
 • Drag and drop Sales Amount into the Values field.
+
 • Power BI will automatically calculate Total Sales (Sum of Sales Amount).
 
 # Average Sales:
 
 • Create another Card visualization.
+
 • Drag and drop Sales Amount into the Values field.
+
 • Change the aggregation from Sum to Average to calculate Average Sales.
 
 ![image_alt](https://github.com/DSgenes/Indicating-Business-Performance/blob/c78afbcb56f978c1933757e0e12e92edf31ee5d8/Screenshot%202.png)
+
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 # 2. Total Sales Per Month
 
 • Select the Multi-row Card visualization from the Visualizations pane.
+
 • Drag and drop the Sales Amount field into the Fields well.
+
 • Expand the Order Date field and drag and drop the Month field into the Fields well.
+
 • This will display Total Sales per Month.
 
 ![image_alt](https://github.com/DSgenes/Indicating-Business-Performance/blob/e6bdaa3719c7cc4a2afa91a131e22547eee87842/Screenshot%203.png)
+
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+# 3. Total Orders
 
+• Select the Card visualization from the Visualizations pane.
+
+• Drag and drop the Sales ID field into the Fields well.
+
+• This will display the Total Orders (count of Sales IDs).
+
+![image_alt]()
 
 
 
