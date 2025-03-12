@@ -129,9 +129,7 @@ Your task in this exercise was to create a report showing KPIs that provided the
 
 • Hover over the region with the highest sales to view the tooltip. For example, hovering over the East region for July will show the sales values and marketing spend.
 
-
-
-
+![image_alt](https://github.com/DSgenes/Indicating-Business-Performance/blob/92f2e0bc7e219e6f55690bbf2d9d05211715158e/Screenshot%207.png)
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
