@@ -111,7 +111,26 @@ Your task in this exercise was to create a report showing KPIs that provided the
 
 • Hover over each item to examine how the team performed with their advertising budget compared to the previous month.
 
-![image_alt]()
+![image_alt](https://github.com/DSgenes/Indicating-Business-Performance/blob/712f2d2b6f534221b59b4c01beee85f7c70c3c82/Screenshot%209.png)
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+# Region Performance and Ranking
+
+• Select the Ribbon chart from the Visualizations pane.
+
+• Drag and drop the Sales Amount field into the Y-axis well.
+
+• Drag and drop the Month field from Order Date into the X-axis well to display sales changes over the months.
+
+• Drag and drop the Region field into the Legend well.
+
+• Drag and drop the Marketing Spend into the Tooltips field to show its value with sales changes.
+
+• Hover over the region with the highest sales to view the tooltip. For example, hovering over the East region for July will show the sales values and marketing spend.
+
+
+
 
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
